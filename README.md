@@ -1,6 +1,7 @@
 # Haitian-Forts
 Carte interactive des Forts d'Haiti utilisant la technologie Shiny
 # **Application Shiny : Carte interactive des Forts d'Haïti**
+![My Image](https://github.com/stepminer/Haitian-Forts/blob/main/citadelle.jpg)
 
 ## **Description**
 
