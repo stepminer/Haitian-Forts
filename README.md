@@ -39,4 +39,5 @@ install.packages("DT")
 
 Créé par PATRICK PRÉZEAU STEPHENSON EN COLLABORATION AVEC DES JEUNES D'HAITI
 Contact : manifeste1804@gmail.com
+https://manifeste-appel-du-lambi-2024.netlify.app/
 https://ps-consults.com/
