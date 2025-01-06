@@ -5,7 +5,7 @@ Carte interactive des Forts d'Haiti utilisant la technologie Shiny
 
 ## **Description**
 
-Cette application Shiny interactive permet de visualiser une carte des forts historiques d'Haïti, accompagnée d'une table de données détaillant leurs caractéristiques principales. Chaque fort est représenté par un marqueur sur la carte, avec des informations accessibles via des popups interactifs. Une table dynamique est également incluse pour explorer et filtrer les données associées à chaque fort. Des photos sont disponibles en cliquant sur le lien dans les fenètres popup. La qualité des données et des photos n'a pas encore été validée.
+Cette application Shiny interactive peut etre explorée en ligne ici: https://jeunessedebout.shinyapps.io/soup_liberte_2024-main/ Elle permet de visualiser une carte des forts historiques d'Haïti, accompagnée d'une table de données détaillant leurs caractéristiques principales. Chaque fort est représenté par un marqueur sur la carte, avec des informations accessibles via des popups interactifs. Une table dynamique est également incluse pour explorer et filtrer les données associées à chaque fort. Des photos sont disponibles en cliquant sur le lien dans les fenètres popup. La qualité des données et des photos n'a pas encore été validée.
 
 ---
 
@@ -37,6 +37,6 @@ install.packages("DT")
 ---
 # **Auteur**
 
-Créé par PATRICK PRÉZEAU STEPHENSON
+Créé par PATRICK PRÉZEAU STEPHENSON EN COLLABORATION AVEC DES JEUNES D'HAITI
 Contact : manifeste1804@gmail.com
 https://ps-consults.com/
